@@ -1,10 +1,10 @@
 # Hello!
-- 👋 Hi, I’m @igamer609
-- 👀 I’m interested in making games and playing games
-- 🌱 I’m currently learning coding and school stuff
+- Hi, I’m @igamer609
+- I’m interested in making games and playing games
+- I’m currently learning coding and school stuff
 
 # Current goals 
-- Geometrie Das editor
+- Geometrie Das editor (soon...)
 
 <!---
 igamer609/igamer609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
